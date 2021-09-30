@@ -1,0 +1,134 @@
+[29-09-2021 14:19:50][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:19:50][    INFO][test_input_field]Creating test setup
+[29-09-2021 14:19:50][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:19:50][    INFO][test_input_field]Opening browser
+[29-09-2021 14:20:25][    INFO][test_input_field]Current URL: https://www.seleniumeasy.com/test/basic-first-form-demo.html
+[29-09-2021 14:20:26][    INFO][test_input_field]Closed unwanted pop up dialog
+[29-09-2021 14:20:26][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:26][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:26][    INFO][test_input_field]Test 1: test_single_textfield
+[29-09-2021 14:20:26][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:26][    INFO][test_input_field]Message to enter: Try Me
+[29-09-2021 14:20:26][    INFO][test_input_field]Message displayed: Try Me
+[29-09-2021 14:20:26][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:26][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:26][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:26][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:26][    INFO][test_input_field]Test 2: test_single_textfield_big_string
+[29-09-2021 14:20:26][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:26][    INFO][test_input_field]Message to enter: Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me 
+[29-09-2021 14:20:32][    INFO][test_input_field]Message displayed: Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me Ask me 
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Test 3: test_single_textfield_empty
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Message to enter: 
+[29-09-2021 14:20:32][    INFO][test_input_field]Message displayed: 
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Test 4: test_single_textfield_special_chars
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Message to enter: ~!@#$%^&*()_+
+[29-09-2021 14:20:32][    INFO][test_input_field]Message displayed: ~!@#$%^&*()_+
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Test 5: test_multiple_input_fields_sum_positive_numbers
+[29-09-2021 14:20:32][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:32][    INFO][test_input_field]Value in first field: 25
+[29-09-2021 14:20:32][    INFO][test_input_field]Value in second field: 37
+[29-09-2021 14:20:33][    INFO][test_input_field]Expected sum: 62
+[29-09-2021 14:20:33][    INFO][test_input_field]Obtained sum: 62
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Test 6: test_multiple_input_fields_sum_positive_negative_numbers_1
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Value in first field: -25
+[29-09-2021 14:20:33][    INFO][test_input_field]Value in second field: 37
+[29-09-2021 14:20:33][    INFO][test_input_field]Expected sum: 12
+[29-09-2021 14:20:33][    INFO][test_input_field]Obtained sum: 12
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Test 7: test_multiple_input_fields_sum_positive_negative_numbers_2
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Value in first field: 25
+[29-09-2021 14:20:33][    INFO][test_input_field]Value in second field: -37
+[29-09-2021 14:20:33][    INFO][test_input_field]Expected sum: -12
+[29-09-2021 14:20:33][    INFO][test_input_field]Obtained sum: -12
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Test 8: test_multiple_input_fields_sum_negative_numbers
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Value in first field: -25
+[29-09-2021 14:20:33][    INFO][test_input_field]Value in second field: -37
+[29-09-2021 14:20:33][    INFO][test_input_field]Expected sum: -62
+[29-09-2021 14:20:33][    INFO][test_input_field]Obtained sum: -62
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:33][    INFO][test_input_field]Test 9: test_multiple_input_fields_sum_positive_big_numbers
+[29-09-2021 14:20:33][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][    INFO][test_input_field]Value in first field: 257
+[29-09-2021 14:20:34][    INFO][test_input_field]Value in second field: 32767
+[29-09-2021 14:20:34][    INFO][test_input_field]Expected sum: 33024
+[29-09-2021 14:20:34][    INFO][test_input_field]Obtained sum: 33024
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][    INFO][test_input_field]Result: PASS
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][    INFO][test_input_field]Test 10: test_multiple_input_fields_sum_positive_bigger_numbers
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][    INFO][test_input_field]Value in first field: 2147483647
+[29-09-2021 14:20:34][    INFO][test_input_field]Value in second field: 9223372036854775807
+[29-09-2021 14:20:34][    INFO][test_input_field]Expected sum: 9223372039002259454
+[29-09-2021 14:20:34][    INFO][test_input_field]Obtained sum: 9223372039002260000
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][CRITICAL][test_input_field]Result: FAIL
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][    INFO][test_input_field]Test 11: test_multiple_input_fields_sum_fractions
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][    INFO][test_input_field]Value in first field: 24.15
+[29-09-2021 14:20:34][    INFO][test_input_field]Value in second field: 37.25
+[29-09-2021 14:20:34][    INFO][test_input_field]Expected sum: 61.4
+[29-09-2021 14:20:34][    INFO][test_input_field]Obtained sum: 61
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][CRITICAL][test_input_field]Result: FAIL
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][    INFO][test_input_field]Test 12: test_multiple_input_fields_sum_strings
+[29-09-2021 14:20:34][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:34][    INFO][test_input_field]Value in first field: Time
+[29-09-2021 14:20:34][    INFO][test_input_field]Value in second field:  Stamp
+[29-09-2021 14:20:35][    INFO][test_input_field]Expected sum: Time Stamp
+[29-09-2021 14:20:35][    INFO][test_input_field]Obtained sum: NaN
+[29-09-2021 14:20:35][    INFO][test_input_field]--------------------------------------------------------------------------------
+[29-09-2021 14:20:35][CRITICAL][test_input_field]Result: FAIL
+[29-09-2021 14:20:35][    INFO][test_input_field]--------------------------------------------------------------------------------
+
+[29-09-2021 14:20:35][    INFO][test_input_field]Closed browser after test execution
+
