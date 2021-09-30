@@ -1,0 +1,135 @@
+{
+  "uid" : "fa5e783c51a21ce4",
+  "name" : "test_single_checkbox_click",
+  "fullName" : "tests.test_checkbox_field#test_single_checkbox_click",
+  "historyId" : "c8ef11ad5b6d6571f8f36422ad1bd4cb",
+  "time" : {
+    "start" : 1632987027288,
+    "stop" : 1632987027505,
+    "duration" : 217
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1632986990947,
+      "stop" : 1632987027287,
+      "duration" : 36340
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1eceaa6ecac6ab7c",
+      "name" : "log",
+      "source" : "1eceaa6ecac6ab7c.txt",
+      "type" : "text/plain",
+      "size" : 1615
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1632987028183,
+      "stop" : 1632987028213,
+      "duration" : 30
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkbox_field"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-C1UHKMR"
+  }, {
+    "name" : "thread",
+    "value" : "5024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_checkbox_field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bdc4b4afb0f6ed16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632985466769,
+        "stop" : 1632985466988,
+        "duration" : 219
+      }
+    }, {
+      "uid" : "7b041bb7a56dc3f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632983947769,
+        "stop" : 1632983947985,
+        "duration" : 216
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "c31ab6a1aacedcc8",
+        "reportUrl" : "http://localhost:8080/job/SeleniumDemo/4/allure/#testresult/c31ab6a1aacedcc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632985466769,
+          "stop" : 1632985466988,
+          "duration" : 219
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "fa5e783c51a21ce4.json",
+  "parameterValues" : [ ]
+}

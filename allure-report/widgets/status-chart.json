@@ -1,0 +1,221 @@
+[ {
+  "uid" : "a88bcd713e5f7a38",
+  "name" : "test_multi_checkbox_button_text_1",
+  "time" : {
+    "start" : 1632987027708,
+    "stop" : 1632987027872,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff3f41b9d8d4bb16",
+  "name" : "test_single_textfield_big_string",
+  "time" : {
+    "start" : 1632987044161,
+    "stop" : 1632987050858,
+    "duration" : 6697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbfd2aa93dc7a815",
+  "name" : "test_multiple_input_fields_sum_positive_negative_numbers_2",
+  "time" : {
+    "start" : 1632987051976,
+    "stop" : 1632987052289,
+    "duration" : 313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7db0d58ee4ad74f0",
+  "name" : "test_multiple_input_fields_sum_positive_big_numbers",
+  "time" : {
+    "start" : 1632987052660,
+    "stop" : 1632987053002,
+    "duration" : 342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a2a06a2e73a18af",
+  "name" : "test_multi_checkbox_button_text_2",
+  "time" : {
+    "start" : 1632987027878,
+    "stop" : 1632987027987,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81b0152fe09312c6",
+  "name" : "test_multi_checkbox_partial_selected",
+  "time" : {
+    "start" : 1632987027990,
+    "stop" : 1632987028183,
+    "duration" : 193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e917018a0fd77f8",
+  "name" : "test_single_checkbox_message_negative",
+  "time" : {
+    "start" : 1632987027568,
+    "stop" : 1632987027701,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa5e783c51a21ce4",
+  "name" : "test_single_checkbox_click",
+  "time" : {
+    "start" : 1632987027288,
+    "stop" : 1632987027505,
+    "duration" : 217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "544b4003547c771a",
+  "name" : "test_radio_single_group_option_male_selection",
+  "time" : {
+    "start" : 1632987068385,
+    "stop" : 1632987068706,
+    "duration" : 321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3394569266379e0",
+  "name" : "test_radio_single_group_options",
+  "time" : {
+    "start" : 1632987068996,
+    "stop" : 1632987069033,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8977ea1c0da98c8c",
+  "name" : "test_multiple_input_fields_sum_positive_bigger_numbers",
+  "time" : {
+    "start" : 1632987053013,
+    "stop" : 1632987053389,
+    "duration" : 376
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a8fb7700163a450",
+  "name" : "test_multiple_input_fields_sum_fractions",
+  "time" : {
+    "start" : 1632987053432,
+    "stop" : 1632987053768,
+    "duration" : 336
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "372fc7240a5a2b30",
+  "name" : "test_radio_single_group_option_female_selection",
+  "time" : {
+    "start" : 1632987068717,
+    "stop" : 1632987068986,
+    "duration" : 269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af8f038685910a15",
+  "name" : "test_single_textfield",
+  "time" : {
+    "start" : 1632987043798,
+    "stop" : 1632987044150,
+    "duration" : 352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6238bd6c9a4e2d4",
+  "name" : "test_multiple_input_fields_sum_positive_numbers",
+  "time" : {
+    "start" : 1632987051284,
+    "stop" : 1632987051666,
+    "duration" : 382
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55396d79a13d798c",
+  "name" : "test_single_textfield_special_chars",
+  "time" : {
+    "start" : 1632987050967,
+    "stop" : 1632987051096,
+    "duration" : 129
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "690067b831fe5dee",
+  "name" : "test_multiple_input_fields_sum_strings",
+  "time" : {
+    "start" : 1632987053817,
+    "stop" : 1632987054115,
+    "duration" : 298
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0f20c2b4872f1df",
+  "name" : "test_radio_single_group_no_opt_selected",
+  "time" : {
+    "start" : 1632987068092,
+    "stop" : 1632987068378,
+    "duration" : 286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2259c5bc1f0c0558",
+  "name" : "test_single_textfield_empty",
+  "time" : {
+    "start" : 1632987050861,
+    "stop" : 1632987050959,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2629290b851d069",
+  "name" : "test_multiple_input_fields_sum_negative_numbers",
+  "time" : {
+    "start" : 1632987052298,
+    "stop" : 1632987052647,
+    "duration" : 349
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5591b495664e39a6",
+  "name" : "test_multiple_input_fields_sum_positive_negative_numbers_1",
+  "time" : {
+    "start" : 1632987051673,
+    "stop" : 1632987051966,
+    "duration" : 293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48128a6d92a2e714",
+  "name" : "test_single_checkbox_message",
+  "time" : {
+    "start" : 1632987027514,
+    "stop" : 1632987027561,
+    "duration" : 47
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

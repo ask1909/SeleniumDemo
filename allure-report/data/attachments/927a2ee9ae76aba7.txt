@@ -1,0 +1,14 @@
+INFO     test_radio_field:test_radio_field.py:25 --------------------------------------------------------------------------------
+INFO     test_radio_field:test_radio_field.py:26 Creating test setup
+INFO     test_radio_field:test_radio_field.py:27 --------------------------------------------------------------------------------
+INFO     test_radio_field:test_radio_field.py:30 Opened browser with URL: https://www.seleniumeasy.com/test/basic-radiobutton-demo.html
+INFO     test_radio_field:test_radio_field.py:34 Pop up dialog did not appear
+INFO     test_radio_field:test_radio_field.py:39 --------------------------------------------------------------------------------
+INFO     test_radio_field:test_radio_field.py:50 --------------------------------------------------------------------------------
+INFO     test_radio_field:test_radio_field.py:51 Test 1: test_radio_single_group_no_opt_selected
+INFO     test_radio_field:test_radio_field.py:52 --------------------------------------------------------------------------------
+INFO     test_radio_field:test_radio_field.py:59 Obtained message: Radio button is Not checked
+INFO     test_radio_field:test_radio_field.py:60 Expected message: Radio button is Not checked
+INFO     test_radio_field:test_radio_field.py:61 --------------------------------------------------------------------------------
+INFO     test_radio_field:test_radio_field.py:63 Result: PASS
+INFO     test_radio_field:test_radio_field.py:66 --------------------------------------------------------------------------------

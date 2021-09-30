@@ -1,0 +1,67 @@
+{
+  "uid" : "d66668935d8e492d",
+  "name" : "test_multi_checkbox_button_text_1",
+  "fullName" : "tests.test_checkbox_field#test_multi_checkbox_button_text_1",
+  "historyId" : "54ac53232bd0e0324d8808734e83cb4c",
+  "time" : {
+    "start" : 1632985467222,
+    "stop" : 1632985467399,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "50f8e3c9b8cca37",
+      "name" : "log",
+      "source" : "50f8e3c9b8cca37.txt",
+      "type" : "text/plain",
+      "size" : 754
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkbox_field"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-C1UHKMR"
+  }, {
+    "name" : "thread",
+    "value" : "8120-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_checkbox_field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d66668935d8e492d.json",
+  "parameterValues" : [ ]
+}

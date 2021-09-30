@@ -1,0 +1,8 @@
+INFO     test_input_field:test_input_field.py:102 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:103 Test 3: test_single_textfield_empty
+INFO     test_input_field:test_input_field.py:104 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:106 Message to enter: 
+INFO     test_input_field:test_input_field.py:111 Message displayed: 
+INFO     test_input_field:test_input_field.py:112 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:114 Result: PASS
+INFO     test_input_field:test_input_field.py:117 --------------------------------------------------------------------------------

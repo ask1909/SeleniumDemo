@@ -1,0 +1,10 @@
+INFO     test_input_field:test_input_field.py:220 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:221 Test 8: test_multiple_input_fields_sum_negative_numbers
+INFO     test_input_field:test_input_field.py:222 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:229 Value in first field: -25
+INFO     test_input_field:test_input_field.py:231 Value in second field: -37
+INFO     test_input_field:test_input_field.py:234 Expected sum: -62
+INFO     test_input_field:test_input_field.py:235 Obtained sum: -62
+INFO     test_input_field:test_input_field.py:236 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:238 Result: PASS
+INFO     test_input_field:test_input_field.py:241 --------------------------------------------------------------------------------
