@@ -1,9 +1,0 @@
-INFO     test_radio_field:test_radio_field.py:138 --------------------------------------------------------------------------------
-INFO     test_radio_field:test_radio_field.py:139 Test 4: test_radio_single_group_options
-INFO     test_radio_field:test_radio_field.py:140 --------------------------------------------------------------------------------
-INFO     test_radio_field:test_radio_field.py:146 Obtained values for single radio button group: ['Female', 'Male']
-INFO     test_radio_field:test_radio_field.py:147 Expected values for single radio button group: ['Female', 'Male']
-INFO     test_radio_field:test_radio_field.py:148 --------------------------------------------------------------------------------
-INFO     test_radio_field:test_radio_field.py:150 Result: PASS
-INFO     test_radio_field:test_radio_field.py:153 --------------------------------------------------------------------------------
-INFO     test_radio_field:test_radio_field.py:42 Closed browser after test execution

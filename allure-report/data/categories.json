@@ -4,33 +4,33 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "AssertionError: assert '~!@#$%^&*()_+' == '!@#$%&*()_+'\n  - !@#$%&*()_+\n  + ~!@#$%^&*()_+\n  ? +     +",
+      "name" : "AssertionError: assert '!@#~$%^&*()_+' == '!@#$%&*()_+'\n  - !@#$%&*()_+\n  + !@#~$%^&*()_+\n  ?    +  +",
       "children" : [ {
         "name" : "test_single_textfield_special_chars",
-        "uid" : "55396d79a13d798c",
-        "parentUid" : "82d9530c14981d3b020ef01c17502b70",
+        "uid" : "320c5307a73c69a8",
+        "parentUid" : "c636149c0b487ce90fb3ac02287d7bf5",
         "status" : "failed",
         "time" : {
-          "start" : 1632987050967,
-          "stop" : 1632987051096,
-          "duration" : 129
+          "start" : 1633002828318,
+          "stop" : 1633002828537,
+          "duration" : 219
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "82d9530c14981d3b020ef01c17502b70"
+      "uid" : "c636149c0b487ce90fb3ac02287d7bf5"
     }, {
       "name" : "AssertionError: assert '9223372039002259454' == '9223372039002260000'\n  - 9223372039002260000\n  + 9223372039002259454",
       "children" : [ {
         "name" : "test_multiple_input_fields_sum_positive_bigger_numbers",
-        "uid" : "8977ea1c0da98c8c",
+        "uid" : "6753400c226201b4",
         "parentUid" : "1998c76ce5cc55fdfca4566a224de87a",
         "status" : "failed",
         "time" : {
-          "start" : 1632987053013,
-          "stop" : 1632987053389,
-          "duration" : 376
+          "start" : 1633002830320,
+          "stop" : 1633002830648,
+          "duration" : 328
         },
         "flaky" : false,
         "newFailed" : false,
@@ -41,13 +41,13 @@
       "name" : "AssertionError: assert '61.4' == '61'\n  - 61\n  + 61.4",
       "children" : [ {
         "name" : "test_multiple_input_fields_sum_fractions",
-        "uid" : "8a8fb7700163a450",
+        "uid" : "def70273dc14cf3d",
         "parentUid" : "09eb2e03a451026b46fab8f9f910547f",
         "status" : "failed",
         "time" : {
-          "start" : 1632987053432,
-          "stop" : 1632987053768,
-          "duration" : 336
+          "start" : 1633002830703,
+          "stop" : 1633002830932,
+          "duration" : 229
         },
         "flaky" : false,
         "newFailed" : false,
@@ -58,13 +58,13 @@
       "name" : "AssertionError: assert 'Time Stamp' == 'NaN'\n  - NaN\n  + Time Stamp",
       "children" : [ {
         "name" : "test_multiple_input_fields_sum_strings",
-        "uid" : "690067b831fe5dee",
+        "uid" : "4268f17758a47454",
         "parentUid" : "fdc69e1577f713130bdf84c0695d9f9a",
         "status" : "failed",
         "time" : {
-          "start" : 1632987053817,
-          "stop" : 1632987054115,
-          "duration" : 298
+          "start" : 1633002830965,
+          "stop" : 1633002831247,
+          "duration" : 282
         },
         "flaky" : false,
         "newFailed" : false,

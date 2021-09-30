@@ -1,7 +1,0 @@
-INFO     test_checkbox_field:test_checkbox_field.py:89 --------------------------------------------------------------------------------
-INFO     test_checkbox_field:test_checkbox_field.py:90 Test 3: test_single_checkbox_message_negative
-INFO     test_checkbox_field:test_checkbox_field.py:91 --------------------------------------------------------------------------------
-INFO     test_checkbox_field:test_checkbox_field.py:96 Checkbox checked? False
-INFO     test_checkbox_field:test_checkbox_field.py:97 Success Message displayed? False
-INFO     test_checkbox_field:test_checkbox_field.py:99 Result: PASS
-INFO     test_checkbox_field:test_checkbox_field.py:102 --------------------------------------------------------------------------------

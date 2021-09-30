@@ -1,8 +1,0 @@
-INFO     test_input_field:test_input_field.py:122 --------------------------------------------------------------------------------
-INFO     test_input_field:test_input_field.py:123 Test 4: test_single_textfield_special_chars
-INFO     test_input_field:test_input_field.py:124 --------------------------------------------------------------------------------
-INFO     test_input_field:test_input_field.py:126 Message to enter: ~!@#$%^&*()_+
-INFO     test_input_field:test_input_field.py:131 Message displayed: !@#$%&*()_+
-INFO     test_input_field:test_input_field.py:132 --------------------------------------------------------------------------------
-CRITICAL test_input_field:test_input_field.py:136 Result: FAIL
-INFO     test_input_field:test_input_field.py:137 --------------------------------------------------------------------------------

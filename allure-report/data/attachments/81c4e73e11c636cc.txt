@@ -1,4 +1,0 @@
-INFO     test_checkbox_field:test_checkbox_field.py:150 --------------------------------------------------------------------------------
-INFO     test_checkbox_field:test_checkbox_field.py:151 Test 6: test_multi_checkbox_partial_selected
-INFO     test_checkbox_field:test_checkbox_field.py:152 --------------------------------------------------------------------------------
-INFO     test_checkbox_field:test_checkbox_field.py:160 Result: PASS

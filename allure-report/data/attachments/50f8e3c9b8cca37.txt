@@ -1,7 +1,0 @@
-INFO     test_checkbox_field:test_checkbox_field.py:109 --------------------------------------------------------------------------------
-INFO     test_checkbox_field:test_checkbox_field.py:110 Test 4: test_multi_checkbox_button_text_1
-INFO     test_checkbox_field:test_checkbox_field.py:111 --------------------------------------------------------------------------------
-INFO     test_checkbox_field:test_checkbox_field.py:116 Checkbox group status: False
-INFO     test_checkbox_field:test_checkbox_field.py:117 Is button caption proper: Check All
-INFO     test_checkbox_field:test_checkbox_field.py:119 Result: PASS
-INFO     test_checkbox_field:test_checkbox_field.py:122 --------------------------------------------------------------------------------
