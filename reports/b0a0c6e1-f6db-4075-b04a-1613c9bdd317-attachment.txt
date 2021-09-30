@@ -1,0 +1,7 @@
+INFO     test_checkbox_field:test_checkbox_field.py:72 --------------------------------------------------------------------------------
+INFO     test_checkbox_field:test_checkbox_field.py:73 Test 2: test_single_checkbox_message
+INFO     test_checkbox_field:test_checkbox_field.py:74 --------------------------------------------------------------------------------
+INFO     test_checkbox_field:test_checkbox_field.py:77 Checkbox checked? True
+INFO     test_checkbox_field:test_checkbox_field.py:78 Success Message displayed? True
+INFO     test_checkbox_field:test_checkbox_field.py:80 Result: PASS
+INFO     test_checkbox_field:test_checkbox_field.py:83 --------------------------------------------------------------------------------

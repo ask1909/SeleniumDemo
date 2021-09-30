@@ -1,0 +1,11 @@
+INFO     test_input_field:test_input_field.py:324 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:325 Test 12: test_multiple_input_fields_sum_strings
+INFO     test_input_field:test_input_field.py:326 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:333 Value in first field: Time
+INFO     test_input_field:test_input_field.py:335 Value in second field:  Stamp
+INFO     test_input_field:test_input_field.py:338 Expected sum: Time Stamp
+INFO     test_input_field:test_input_field.py:339 Obtained sum: NaN
+INFO     test_input_field:test_input_field.py:340 --------------------------------------------------------------------------------
+CRITICAL test_input_field:test_input_field.py:344 Result: FAIL
+INFO     test_input_field:test_input_field.py:345 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:57 Closed browser after test execution

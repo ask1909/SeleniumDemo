@@ -1,0 +1,15 @@
+INFO     test_input_field:test_input_field.py:31 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:32 Creating test setup
+INFO     test_input_field:test_input_field.py:33 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:34 Opening browser
+INFO     test_input_field:test_input_field.py:37 Current URL: https://www.seleniumeasy.com/test/basic-first-form-demo.html
+INFO     test_input_field:test_input_field.py:45 Closed unwanted pop up dialog
+INFO     test_input_field:test_input_field.py:46 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:61 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:62 Test 1: test_single_textfield
+INFO     test_input_field:test_input_field.py:63 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:65 Message to enter: Try Me
+INFO     test_input_field:test_input_field.py:70 Message displayed: Try Me
+INFO     test_input_field:test_input_field.py:71 --------------------------------------------------------------------------------
+INFO     test_input_field:test_input_field.py:73 Result: PASS
+INFO     test_input_field:test_input_field.py:76 --------------------------------------------------------------------------------

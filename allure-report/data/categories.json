@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '!@#~$%^&*()_+' == '!@#$%&*()_+'\n  - !@#$%&*()_+\n  + !@#~$%^&*()_+\n  ?    +  +",
+      "children" : [ {
+        "name" : "test_single_textfield_special_chars",
+        "uid" : "320c5307a73c69a8",
+        "parentUid" : "c636149c0b487ce90fb3ac02287d7bf5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633002828318,
+          "stop" : 1633002828537,
+          "duration" : 219
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c636149c0b487ce90fb3ac02287d7bf5"
+    }, {
+      "name" : "AssertionError: assert '9223372039002259454' == '9223372039002260000'\n  - 9223372039002260000\n  + 9223372039002259454",
+      "children" : [ {
+        "name" : "test_multiple_input_fields_sum_positive_bigger_numbers",
+        "uid" : "6753400c226201b4",
+        "parentUid" : "1998c76ce5cc55fdfca4566a224de87a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633002830320,
+          "stop" : 1633002830648,
+          "duration" : 328
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1998c76ce5cc55fdfca4566a224de87a"
+    }, {
+      "name" : "AssertionError: assert '61.4' == '61'\n  - 61\n  + 61.4",
+      "children" : [ {
+        "name" : "test_multiple_input_fields_sum_fractions",
+        "uid" : "def70273dc14cf3d",
+        "parentUid" : "09eb2e03a451026b46fab8f9f910547f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633002830703,
+          "stop" : 1633002830932,
+          "duration" : 229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "09eb2e03a451026b46fab8f9f910547f"
+    }, {
+      "name" : "AssertionError: assert 'Time Stamp' == 'NaN'\n  - NaN\n  + Time Stamp",
+      "children" : [ {
+        "name" : "test_multiple_input_fields_sum_strings",
+        "uid" : "4268f17758a47454",
+        "parentUid" : "fdc69e1577f713130bdf84c0695d9f9a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633002830965,
+          "stop" : 1633002831247,
+          "duration" : 282
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fdc69e1577f713130bdf84c0695d9f9a"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
