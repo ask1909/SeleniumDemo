@@ -122,7 +122,7 @@ def test_single_textfield_special_chars(setup):
     tlog.logger.info(PrintElements.separator_line)
     tlog.logger.info('Test 4: {}'.format(sys._getframe().f_code.co_name))
     tlog.logger.info(PrintElements.separator_line)
-    set_val = '!@#~$%^&*()_+'
+    set_val = '!@#\~$%\^&*()_+'
     tlog.logger.info('Message to enter: {}'.format(set_val))
     elem_txt.clear_text()
     elem_txt.set_value(set_val)
